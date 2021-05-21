@@ -1,6 +1,6 @@
 # EDA---Terrorism-Project
 
-# As a research analyst, I find the hot zones of terrorism and which area is more affected during the terrorist attack. I also find the security issues and insight  can be derived by EDA.
+# As a research analyst, I found the hot zones of terrorism and find which area is more affected during the terrorist attack. I also find the security issues and insights where work can be done randomly.
 ● Perform ‘Exploratory Data Analysis’ on "Terrorism"
 
 ● As a Security Defence Analyst, try to find out the Hot Zones of Terrorism
